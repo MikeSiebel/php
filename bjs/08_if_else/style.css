@@ -2,3 +2,27 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+#answerField {
+    color:blue;
+}
+
+.card-header:first-child {
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+    color:rgb(74, 13, 125);
+    font-weight: 600;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 5px solid rgba(0,0,0,.125);
+    border-radius: 0.65rem;
+}
