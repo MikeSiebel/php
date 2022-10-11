@@ -62,4 +62,4 @@
 
 ## Как открыть/запустить
 
-Для просмотра сайта воспользуйтесь ссылкой https://mikesiebel.github.io/php/bjs/08_if_else/index.html
+Для просмотра сайта воспользуйтесь ссылкой https://mikesiebel.github.io/php/bjs/10_function_object/index.html
