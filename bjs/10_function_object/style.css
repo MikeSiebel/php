@@ -1,0 +1,31 @@
+.container {
+	margin-top: 200px;
+}
+
+.card-body {
+	background-color: #9100da;
+	color: #fff;
+}
+.card-header:first-child {
+    border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0;
+    font-size: 20px;
+    background: #ebe5dd;
+}
+.btn-info {
+    color: #fff;
+    background-color: #ef4252;
+    border-color: #b81752;
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 11px solid rgba(0,0,0,.125);
+    border-radius: 0.5rem;
+}
